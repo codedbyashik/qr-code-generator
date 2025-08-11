@@ -6,14 +6,9 @@ It allows you to enter any text or link and instantly generate a QR code using a
 ---
 
 ## 🚀 Live Demo
-[Click here to use the QR Code Generator](https://codedbyashik.github.io/qr-code-generator/)
+[Click here to use the QR Code Generator]( https://codedbyashik.github.io/qr-code-generator/)
 
----
 
-## 📸 Preview
-![QR Code Generator Screenshot](screenshot.png)
-
----
 
 ## ✨ Features
 - Generate QR codes for any text or URL
